@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\AssignmentThree\AssignmentThreeMVC\bin\Debug\AssignmentThreeMVC.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\AssignmentThree\AssignmentThreeMVC\bin\Debug\AssignmentThreeMVC.exe
+C:\Users\Administrator\source\repos\GrandCircus\AssignmentThree\AssignmentThreeMVC\bin\Debug\AssignmentThreeMVC.pdb
+C:\Users\Administrator\source\repos\GrandCircus\AssignmentThree\AssignmentThreeMVC\obj\Debug\AssignmentThreeMVC.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\AssignmentThree\AssignmentThreeMVC\obj\Debug\AssignmentThreeMVC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\AssignmentThree\AssignmentThreeMVC\obj\Debug\AssignmentThreeMVC.exe
+C:\Users\Administrator\source\repos\GrandCircus\AssignmentThree\AssignmentThreeMVC\obj\Debug\AssignmentThreeMVC.pdb
