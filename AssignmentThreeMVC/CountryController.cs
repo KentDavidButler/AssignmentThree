@@ -36,12 +36,11 @@ namespace AssignmentThreeMVC
                     else
                     {
                         validInput = false;
-                        ValidationViewer.NotValidInput();
                     }
                 } while (validInput == false);
                 do
                 {
-                    if (Char.TryParse(ValidationViewer.YorN(), out char yOrN)) ;
+                    if (Char.TryParse(ValidationViewer.YorN(), out char yOrN));
                     {
                         if (yOrN == 'y')
                         {
